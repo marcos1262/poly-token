@@ -1,0 +1,6 @@
+"title" = "PolyTokenizer";
+"english" = "English";
+"portuguese" = "Portuguese";
+"enterText" = "Enter the text to tokenize";
+"tokenize" = "Tokenize";
+"result" = "Result";

@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "ECDDA8D2-6F68-4B8B-ACC0-6C19ACDA97DE",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:PolyToken.xcodeproj",
+      "identifier" : "8D9337FC2B4D8AFA00AC282E",
+      "name" : "PolyToken"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:PolyToken.xcodeproj",
+        "identifier" : "8D9338122B4D8AFD00AC282E",
+        "name" : "PolyTokenTests"
+      }
+    }
+  ],
+  "version" : 1
+}
