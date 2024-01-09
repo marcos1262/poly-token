@@ -11,4 +11,6 @@ Output:
 - Hi, my name is Marcos
 - And I am here to start the project
 
-[Screenshot of the app]()
+<hr>
+
+<img width="300" src="https://github.com/marcos1262/poly-token/blob/main/screenshot.png">    <img width="300" src="https://github.com/marcos1262/poly-token/blob/main/PolyTokenTests/ReferenceImages/TokenizerViewTests/_show__when_there_is_result__has_valid_snapshot%402x.png">
